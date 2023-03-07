@@ -1,6 +1,8 @@
 # Seatle_airbnb
-This is a dashboard where Seattle's AirBnB data is analyzed and visualized with the help of Tableau.
-Data source : Kaggle dataset for Seattle's Airbnb
+**This is a dashboard where Seattle's AirBnB data is analyzed and visualized with the help of Tableau.
+Data source : Kaggle dataset for Seattle's Airbnb**
+
+
 This tile (bar graph) shows the price of accommodation in Seatle in the different zipcod in the descending order. Zipcode is distinguished using colors where dark blue means the most expensive place to stay and purple shows the least priced accommodation.
 ![image](https://user-images.githubusercontent.com/123319398/223483131-807ba459-54d3-4ade-9740-3a3a25b286d9.png)
 
@@ -22,4 +24,6 @@ Table is used to show the number of properties of 1 bedroom to 6 bedroom. It is 
 ![image](https://user-images.githubusercontent.com/123319398/223483985-d7b76116-16b0-43ab-ba8c-bd493a0cf852.png)
 
 
-The final dashboard
+**The final dashboard is** 
+![image](https://user-images.githubusercontent.com/123319398/223485128-91d710f2-8dfc-42cc-bf62-bf55511293c4.png)
+
